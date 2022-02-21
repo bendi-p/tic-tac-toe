@@ -31,6 +31,7 @@ function CalculateWinner(squares) {
     return null;
 }
 
+// Class board
 class Board extends React.Component {
     constructor(props) {
         super(props);
